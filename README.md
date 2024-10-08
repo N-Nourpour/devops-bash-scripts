@@ -1,5 +1,5 @@
 # devops-bash-scripts
-
+  
 ![Visits Badge](https://badges.pufler.dev/visits/ssbostan/devops-bash-scripts)
 ![GitHub last commit](https://img.shields.io/github/last-commit/ssbostan/devops-bash-scripts)
 [![GitHub license](https://img.shields.io/github/license/ssbostan/devops-bash-scripts)](https://github.com/ssbostan/devops-bash-scripts/blob/master/LICENSE)
